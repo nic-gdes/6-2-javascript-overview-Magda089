@@ -48,6 +48,6 @@ var c = true; //booleans
 var a = 4; //side A
 var b = 3; //Side B
 var c = 5; //Side C
+var d = b*a/2;
 
-
-console.log(b*a/2);
+console.log(d);
